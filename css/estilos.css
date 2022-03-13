@@ -1,0 +1,40 @@
+
+
+body {
+	
+ background-color: #0a825e;
+}
+
+/*Creamos la clase 'center' de forma que podamos centrar, por ejemplo, las tablas de nuestras páginas*/
+
+.center{
+
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+/*Le damos formato a los encabezados H1*/
+h1 {
+  font-weight: bold;
+  text-align: center;  
+  font-family: Palatino, "Book Antiqua", serif;
+  color: #fff;
+
+}
+
+
+/*Le damos formato a los pies de imagen*/
+figcaption {
+
+  text-align: center;
+}
+
+
+/*Le damos formato a las imágenes*/
+img {
+  
+  display: block;
+  width: 100px;
+  height: 50px;
+  
